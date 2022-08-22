@@ -19,7 +19,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf CRACK-FB`
+- `rm -rf 4MBF`
 - `git clone https://github.com/Yusep-XD/4MBF`
 - `cd 4MBF`
 - `python 4MBF.py`
