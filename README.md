@@ -22,7 +22,7 @@
 - `rm -rf 4MBF`
 - `git clone https://github.com/Yusep-XD/4MBF`
 - `cd 4MBF`
-- `python 4MBF.py`
+- `python sep.py`
      
 
  ```This Tools is Free Enjoy ```</br>
